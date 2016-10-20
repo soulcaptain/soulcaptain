@@ -1,0 +1,4 @@
+# robots.txt for www.hi-panda.com
+User-Agent: *
+Allow: /
+Sitemap:http://www.hi-panda.com/sitemap.xml
