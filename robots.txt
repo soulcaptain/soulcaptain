@@ -1,4 +1,4 @@
-# robots.txt for www.hi-panda.com
+# robots.txt for jizaidiao.com
 User-Agent: *
 Allow: /
-Sitemap:http://www.hi-panda.com/sitemap.xml
+Sitemap:http://jizaidiao.com/sitemap.xml
